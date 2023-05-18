@@ -1,5 +1,7 @@
 alx_africa
 The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
+![Web capture_18-5-2023_151459_www decorstravel com](https://github.com/Okekeugo/Webstack-Portfolio-Project/assets/58901551/ed703721-d68d-4f1f-b96d-5951e0c771bb)
+
 
 
 https://www.decorstravel.com/
